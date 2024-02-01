@@ -1,5 +1,4 @@
 albumentations==0.4.3
-opencv-python==4.3.0.38
 pudb==2019.2
 imageio==2.9.0
 imageio-ffmpeg==0.4.2
@@ -13,3 +12,4 @@ transformers==4.6
 -e git+https://github.com/CompVis/taming-transformers.git@master#egg=taming-transformers
 -e git+https://github.com/openai/CLIP.git@main#egg=clip
 -e .
+opencv-python==4.3.0.38
